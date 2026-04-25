@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zoo>
+    <animal>
+        <name>Барсик</name>
+        <age>5</age>
+        <type>Кот</type>
+    </animal>
+    <animal>
+        <name>Ричард</name>
+        <age>9</age>
+        <type>Собака</type>
+    </animal>
+	<animal>
+        <name>Шашлык</name>
+        <age>1</age>
+        <type>Хомяк</type>
+    </animal>
+</zoo>
